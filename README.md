@@ -1,8 +1,12 @@
-# Stephen-Yummy-recipe-application
-This is a yummy recipe application that enable you keep track of your recipes
-challeng1 reguire the following to be set up
+# Yummy recipe-What You Need To Be Familiar With
 
-challeng1 reguire the following to be set up
+HTML/CSS
 
-challeng1 reguire the following to be set up
+Javascript / ES6
+
+
+Python/ Flask
+
+
+GIT and Version Control
 
